@@ -160,7 +160,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-E-Mail - [vigneshmullangi@gmail.com.com](mailto:vigneshmullangi@gmail.com)
+E-Mail - [vigneshmullangi@gmail.com](mailto:vigneshmullangi@gmail.com)
 
 Project Link: [https://github.com/vigneshmullangi](https://github.com/vigneshmullangi)
 
