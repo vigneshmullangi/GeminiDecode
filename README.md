@@ -8,14 +8,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-## Tutorial
-Check out the [GeminiDecode Project Demonstration Video on YouTube](https://youtu.be/o5un5QBsu6w) for a walkthrough of the code and features.
-
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
 ## Features
 
 - **Multilanguage Support:** Efficiently handles over 50 languages.
