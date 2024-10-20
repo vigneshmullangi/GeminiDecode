@@ -1,3 +1,17 @@
+#!/bin/sh
+# sh is buggy on RS/6000 AIX 3.2. Replace above line with #!/bin/ksh
+
+# Bzcmp/diff wrapped for bzip2, 
+# adapted from zdiff by Philippe Troin <phil@fifi.org> for Debian GNU/Linux.
+
+# Bzcmp and bzdiff are used to invoke the cmp or the  diff  pro-
+# gram  on compressed files.  All options specified are passed
+# directly to cmp or diff.  If only 1 file is specified,  then
+# the  files  compared  are file1 and an uncompressed file1.gz.
+# If two files are specified, then they are  uncompressed  (if
+# necessary) and fed to cmp or diff.  The exit status from cmp
+# or diff is preserved.
+
 PATH="/usr/bin:/bin:$PATH"; export PATH
 prog=`echo $0 | sed 's|.*/||'`
 case "$prog" in
