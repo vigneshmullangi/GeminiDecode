@@ -1,0 +1,119 @@
+{
+  "build": "h99b78c6_6",
+  "build_number": 6,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=11.0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/bzip2-1.0.8-h99b78c6_6",
+  "files": [
+    "bin/bunzip2",
+    "bin/bzcat",
+    "bin/bzcmp",
+    "bin/bzdiff",
+    "bin/bzegrep",
+    "bin/bzfgrep",
+    "bin/bzgrep",
+    "bin/bzip2",
+    "bin/bzip2recover",
+    "bin/bzless",
+    "bin/bzmore",
+    "include/bzlib.h",
+    "lib/libbz2.1.0.8.dylib",
+    "lib/libbz2.a",
+    "lib/libbz2.dylib",
+    "man/man1/bzcmp.1",
+    "man/man1/bzdiff.1",
+    "man/man1/bzegrep.1",
+    "man/man1/bzfgrep.1",
+    "man/man1/bzgrep.1",
+    "man/man1/bzip2.1",
+    "man/man1/bzless.1",
+    "man/man1/bzmore.1"
+  ],
+  "fn": "bzip2-1.0.8-h99b78c6_6.conda",
+  "license": "bzip2-1.0.6",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/bzip2-1.0.8-h99b78c6_6",
+    "type": 1
+  },
+  "md5": "501d54e2eae2a6f7f92f63b96fe8dec3",
+  "name": "bzip2",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/bzip2-1.0.8-h99b78c6_6.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/bunzip2",
+        "path_type": "hardlink",
+        "sha256": "5f2db59bb9b9e32ade14aee1a6aabdf94e3b22afc9d043a36f0296c008bd6764",
+        "sha256_in_prefix": "5f2db59bb9b9e32ade14aee1a6aabdf94e3b22afc9d043a36f0296c008bd6764",
+        "size_in_bytes": 146976
+      },
+      {
+        "_path": "bin/bzcat",
+        "path_type": "hardlink",
+        "sha256": "bb9d1f18dccd70f4057e7590f69a8efba570ee58b05b8bd957d5728d678857f7",
+        "sha256_in_prefix": "bb9d1f18dccd70f4057e7590f69a8efba570ee58b05b8bd957d5728d678857f7",
+        "size_in_bytes": 146976
+      },
+      {
+        "_path": "bin/bzcmp",
+        "path_type": "softlink",
+        "sha256": "1c1f96193cdf14b85ea65f140a7557a07ece8783a53ec5ba6b5c30644a9d3012",
+        "size_in_bytes": 2140
+      },
+      {
+        "_path": "bin/bzdiff",
+        "path_type": "hardlink",
+        "sha256": "1c1f96193cdf14b85ea65f140a7557a07ece8783a53ec5ba6b5c30644a9d3012",
+        "sha256_in_prefix": "1c1f96193cdf14b85ea65f140a7557a07ece8783a53ec5ba6b5c30644a9d3012",
+        "size_in_bytes": 2140
+      },
+      {
+        "_path": "bin/bzegrep",
+        "path_type": "softlink",
+        "sha256": "a8e368a31766c7862b8d0feeffe274c3bb43b969e3ccb4f9e77d13bfa447a5c9",
+        "size_in_bytes": 2054
+      },
+      {
+        "_path": "bin/bzfgrep",
+        "path_type": "softlink",
+        "sha256": "a8e368a31766c7862b8d0feeffe274c3bb43b969e3ccb4f9e77d13bfa447a5c9",
+        "size_in_bytes": 2054
+      },
+      {
+        "_path": "bin/bzgrep",
+        "path_type": "hardlink",
+        "sha256": "a8e368a31766c7862b8d0feeffe274c3bb43b969e3ccb4f9e77d13bfa447a5c9",
+        "sha256_in_prefix": "a8e368a31766c7862b8d0feeffe274c3bb43b969e3ccb4f9e77d13bfa447a5c9",
+        "size_in_bytes": 2054
+      },
+      {
+        "_path": "bin/bzip2",
+        "path_type": "hardlink",
+        "sha256": "29229d4f6b7b92d22ebba2cb711be46b3939755fcb0b3c48124a44de5584ae76",
+        "sha256_in_prefix": "29229d4f6b7b92d22ebba2cb711be46b3939755fcb0b3c48124a44de5584ae76",
+        "size_in_bytes": 146976
+      },
+      {
+        "_path": "bin/bzip2recover",
+        "path_type": "hardlink",
+        "sha256": "8fbe5f18d0885b63eafb27a1f0cd8b82737d7932b88324ed0b10d747e43db45c",
+        "sha256_in_prefix": "8fbe5f18d0885b63eafb27a1f0cd8b82737d7932b88324ed0b10d747e43db45c",
+        "size_in_bytes": 53152
+      },
+      {
+        "_path": "bin/bzless",
+        "path_type": "softlink",
+        "sha256": "836536d4c7469788c730355d59f8ae8d16ba07cb0754174878d99ed90f04448d",
+        "size_in_bytes": 1259
+      },
+      {
+        "_path": "bin/bzmore",
+        "path_type": "hardlink",
+        "sha256": "836536d4c7469788c730355d59f8ae8d16ba07cb0754174878d99ed90f04448d",
+        "sha256_in_prefix": "836536d4c7469788c730355d59f8ae8d16ba07cb0754174878d99ed90f04448d",
+        "size_in_bytes": 1259
+      },
+    
