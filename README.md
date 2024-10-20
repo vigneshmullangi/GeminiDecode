@@ -33,7 +33,7 @@ To get started with GeminiDecode, follow these instructions:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mrmayankmathur/GeminiDecode.git
+   git clone https://github.com/vigneshmullangi/GeminiDecode.git
    cd GeminiDecode
    ```
 
