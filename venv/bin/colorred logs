@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/mayankmathur/Desktop/Mayank Projects/GeminiDecode/venv/bin/python3.10" "$0" "$@"
+'''exec' "/Users/vigneshmullangi/Desktop/vignesh Projects/GeminiDecode/venv/bin/python3.10" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
